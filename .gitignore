@@ -1,0 +1,7 @@
+*.tsv
+lib/
+include/
+bin/
+share/
+pyvenv.cfg
+__pycache__/
