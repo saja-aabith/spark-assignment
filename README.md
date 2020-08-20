@@ -1,7 +1,7 @@
 # Daemon Solutions Python Assignment
 
-1. This repo 
-
+1. This repo uses the data from IMDb and fetches the top 15 movies
+2. The ranking is based the formula: (numVotes / averageNumberOfVotes) * averageRating)
 
 
 ## Setup
